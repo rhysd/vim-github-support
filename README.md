@@ -1,7 +1,7 @@
 vim-github-support
 ==================
 
-[vim-github-support][repo] is an all-in-one plugin for syntax highlighting for GitHub things.
+[vim-github-support][repo] is an all-in-one plugin for filetype supports for GitHub things.
 
 All Vim runtime files of following plugins are bundled.
 
@@ -11,6 +11,8 @@ All Vim runtime files of following plugins are bundled.
 - [rhysd/vim-syntax-codeowners][vim-syntax-codeowners]: Filetype support for `CODEOWNERS` file supported by GitHub
 
 For configuration, please see each repositories' README.md files.
+
+More plugins may be added in the future.
 
 
 ## Installation
